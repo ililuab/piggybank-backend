@@ -1,6 +1,5 @@
 package com.testing.piggybank;
 
-import com.testing.piggybank.account.*;
 import com.testing.piggybank.account.AccountService;
 import com.testing.piggybank.model.Account;
 import com.testing.piggybank.model.Currency;
